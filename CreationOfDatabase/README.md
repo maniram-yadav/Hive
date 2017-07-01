@@ -1,4 +1,4 @@
-## [:arrow_left:Previous]() :point_left:____________________________ :point_right:        [Next :arrow_right:](https://github.com/maniram-yadav/Hive/tree/master/DDLQueries)
+## [:arrow_left:Previous](https://github.com/maniram-yadav/Hive/blob/master/START.md) :point_left:____________________________ :point_right:        [Next :arrow_right:](https://github.com/maniram-yadav/Hive/tree/master/DDLQueries)
 
    ### Hive Database Schema Queries
    
@@ -40,4 +40,4 @@ Example :
 
 Make sure the database schema which you want to delete (drop) have no any table. Otherwise it will give a caution message to you. So firstly delete all the table from the given schema the drop the schema.  :point_right:   **[Read More](https://github.com/maniram-yadav/Hive/tree/master/DDLQueries)**
 
-## [:arrow_left:Previous]() :point_left: ____________________________ :point_right:        [Next :arrow_right:](https://github.com/maniram-yadav/Hive/tree/master/DDLQueries)
+## [:arrow_left:Previous](https://github.com/maniram-yadav/Hive/blob/master/START.md) :point_left: ____________________________ :point_right:        [Next :arrow_right:](https://github.com/maniram-yadav/Hive/tree/master/DDLQueries)
