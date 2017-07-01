@@ -1,3 +1,6 @@
+
+## [:arrow_left:Previous](https://github.com/maniram-yadav/Hive/tree/master/CreationOfDatabase) :point_left: ____________________________ :point_right:        [Next :arrow_right:](https://github.com/maniram-yadav/Hive/tree/master/DMLQueries)
+
 ## DDL Queries
 
   DDL stands for Data Definition Language. It is all about defing the tbale columns , their relation and key constraints based on which data of two table can be related to each other. DDL queries basically include *creating table , altering table, defining key constraints , deletion of table any many more other.*
@@ -70,8 +73,6 @@ Query Format:
    **Example : **:point_down:
 
 ![Rename table](https://github.com/maniram-yadav/Hive/blob/master/images/altertable.png)
-   > In above example all the column of the table has been replaced by two new column.
-   
-   
-   
-   
+   > In above example all the column of the table has been replaced by two new column. **[Read More](https://github.com/maniram-yadav/Hive/tree/master/DMLQueries)**
+
+## [:arrow_left:Previous](https://github.com/maniram-yadav/Hive/tree/master/CreationOfDatabase) :point_left: ____________________________ :point_right:        [Next :arrow_right:](https://github.com/maniram-yadav/Hive/tree/master/DMLQueries)
