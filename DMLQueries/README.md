@@ -1,3 +1,4 @@
+## [:arrow_left:Previous](https://github.com/maniram-yadav/Hive/tree/master/DDLQueries) :point_left:
 
 ### DML (Data Manipulation Language) Queries
 
@@ -77,3 +78,5 @@ If we want to fetch data in a special order of column value. The we can use orde
   ```
  **Example**:point_down:
  ![groyp by](https://github.com/maniram-yadav/Hive/blob/master/images/selectgroupby.png)
+
+## [:arrow_left:Previous](https://github.com/maniram-yadav/Hive/tree/master/DDLQueries) :point_left:
