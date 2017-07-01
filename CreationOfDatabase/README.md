@@ -1,5 +1,7 @@
 ## [:arrow_left:Previous](https://github.com/maniram-yadav/Hive/blob/master/START.md) :point_left:____________________________ :point_right:        [Next :arrow_right:](https://github.com/maniram-yadav/Hive/tree/master/DDLQueries)
 
+_____________________________ :door: [Home](https://github.com/maniram-yadav/Hive) :door: _____________________________
+
    ### Hive Database Schema Queries
    
    Schema queries are used for knowing all about existing schema in the database like listing schemas , droping etc.
