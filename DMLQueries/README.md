@@ -1,5 +1,8 @@
 ## [:arrow_left:Previous](https://github.com/maniram-yadav/Hive/tree/master/DDLQueries) :point_left:
 
+
+_____________________________ :door: [Home](https://github.com/maniram-yadav/Hive) :door: _____________________________
+
 ### DML (Data Manipulation Language) Queries
 
   DML stands for Data Manipulation Language. It is used to retrieve, store, modify, delete, insert 
