@@ -41,7 +41,8 @@ Query Format :
 ```
       select <column1>,<column 2>,..., <column n> from  <table name>; 
 ```
-**Example **:point_down:
+
+**Example**:point_down:
       ![select column](https://github.com/maniram-yadav/Hive/blob/master/images/selectcolumn.png)
 
 we can also select only some of the row based on the some condition by using where clause.
@@ -74,5 +75,5 @@ If we want to fetch data in a special order of column value. The we can use orde
     select * from <table name> group by <column list>
   
   ```
- 
+ **Example**:point_down:
  ![groyp by](https://github.com/maniram-yadav/Hive/blob/master/images/selectgroupby.png)
